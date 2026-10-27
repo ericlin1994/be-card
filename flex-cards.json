@@ -9,10 +9,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#253043"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#FFFFFF"
           }
         },
         "body": {
@@ -24,14 +24,14 @@
               "text": "友泰京玻璃工程　藝術玻璃・空間玻璃・工程整合・外牆高空作業",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A0AAB8",
+              "color": "#5A5F6B",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#253043"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -42,7 +42,7 @@
               "text": "1 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -180,7 +180,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://be.cardtaiwan.com/img/card1-v10.jpg",
+          "url": "https://be.cardtaiwan.com/img/card1-v11.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -196,10 +196,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#253043"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#FFFFFF"
           }
         },
         "body": {
@@ -211,14 +211,14 @@
               "text": "設計師・建築師・建商・營造・商空・住宅",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A0AAB8",
+              "color": "#5A5F6B",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#253043"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -229,7 +229,7 @@
               "text": "2 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -367,7 +367,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://be.cardtaiwan.com/img/card2-v1.jpg",
+          "url": "https://be.cardtaiwan.com/img/card2-v2.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -383,10 +383,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#253043"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#FFFFFF"
           }
         },
         "body": {
@@ -398,14 +398,14 @@
               "text": "藝術玻璃・空間玻璃・工程整合・外牆高空作業",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A0AAB8",
+              "color": "#5A5F6B",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#253043"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -416,7 +416,7 @@
               "text": "3 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -554,7 +554,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://be.cardtaiwan.com/img/card3-v1.jpg",
+          "url": "https://be.cardtaiwan.com/img/card3-v2.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -570,10 +570,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#253043"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#FFFFFF"
           }
         },
         "body": {
@@ -585,14 +585,14 @@
               "text": "50+ 年經驗・3 代工藝傳承・4 大服務項目",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A0AAB8",
+              "color": "#5A5F6B",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#253043"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -603,7 +603,7 @@
               "text": "4 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -741,7 +741,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://be.cardtaiwan.com/img/card4-v2.jpg",
+          "url": "https://be.cardtaiwan.com/img/card4-v3.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
@@ -757,10 +757,10 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#253043"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#FFFFFF"
           }
         },
         "body": {
@@ -772,14 +772,14 @@
               "text": "藝術工藝・機能選材・精準加工・立體雕刻",
               "size": "xxs",
               "weight": "regular",
-              "color": "#A0AAB8",
+              "color": "#5A5F6B",
               "wrap": true,
               "margin": "none"
             }
           ],
           "spacing": "md",
           "paddingAll": "14px",
-          "backgroundColor": "#253043"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -790,7 +790,7 @@
               "text": "5 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
@@ -944,7 +944,7 @@
         "size": "mega",
         "styles": {
           "body": {
-            "backgroundColor": "#F5F1E8"
+            "backgroundColor": "#F7F2E8"
           },
           "footer": {
             "backgroundColor": "#FFFFFF"
@@ -994,7 +994,7 @@
                       "text": "0913-458-586",
                       "size": "md",
                       "weight": "bold",
-                      "color": "#FFFFFF",
+                      "color": "#253043",
                       "wrap": true,
                       "margin": "none",
                       "flex": 7
@@ -1006,7 +1006,7 @@
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#E3DAC9"
                 },
                 {
                   "type": "box",
@@ -1026,7 +1026,7 @@
                       "text": "@fez86488989",
                       "size": "md",
                       "weight": "bold",
-                      "color": "#FFFFFF",
+                      "color": "#253043",
                       "wrap": true,
                       "margin": "none",
                       "flex": 7
@@ -1038,7 +1038,7 @@
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#E3DAC9"
                 },
                 {
                   "type": "box",
@@ -1058,7 +1058,7 @@
                       "text": "tc.glass555@gmail.com",
                       "size": "md",
                       "weight": "regular",
-                      "color": "#FFFFFF",
+                      "color": "#253043",
                       "wrap": true,
                       "margin": "none",
                       "flex": 7
@@ -1070,7 +1070,7 @@
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#E3DAC9"
                 },
                 {
                   "type": "box",
@@ -1090,7 +1090,7 @@
                       "text": "新北市中和區連城路518巷8號（中和高中旁巷）",
                       "size": "md",
                       "weight": "regular",
-                      "color": "#FFFFFF",
+                      "color": "#253043",
                       "wrap": true,
                       "margin": "none",
                       "flex": 7
@@ -1102,7 +1102,7 @@
                 {
                   "type": "separator",
                   "margin": "lg",
-                  "color": "#3A465C"
+                  "color": "#E3DAC9"
                 },
                 {
                   "type": "box",
@@ -1122,7 +1122,7 @@
                       "text": "週一～五 08:00-17:00",
                       "size": "md",
                       "weight": "regular",
-                      "color": "#FFFFFF",
+                      "color": "#253043",
                       "wrap": true,
                       "margin": "none",
                       "flex": 7
@@ -1135,8 +1135,10 @@
               "spacing": "none",
               "margin": "md",
               "paddingAll": "14px",
-              "backgroundColor": "#253043",
-              "cornerRadius": "20px"
+              "backgroundColor": "#FFFFFF",
+              "cornerRadius": "20px",
+              "borderWidth": "1px",
+              "borderColor": "#E3DAC9"
             },
             {
               "type": "box",
@@ -1189,7 +1191,7 @@
           ],
           "spacing": "lg",
           "paddingAll": "16px",
-          "backgroundColor": "#F5F1E8"
+          "backgroundColor": "#F7F2E8"
         },
         "footer": {
           "type": "box",
@@ -1200,7 +1202,7 @@
               "text": "6 / 6",
               "size": "xxs",
               "weight": "regular",
-              "color": "#6B7280",
+              "color": "#5A5F6B",
               "wrap": false,
               "margin": "none",
               "align": "center"
