@@ -1,6 +1,6 @@
 {
   "type": "flex",
-  "altText": "友泰京玻璃工程｜李采宣 Be 電子名片",
+  "altText": "友泰京玻璃工程｜李采諠 Cecilia 電子名片",
   "contents": {
     "type": "carousel",
     "contents": [
@@ -180,7 +180,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://be.cardtaiwan.com/img/card1-v17.jpg",
+          "url": "https://be.cardtaiwan.com/img/card1-v18.jpg",
           "size": "full",
           "aspectRatio": "3:4",
           "aspectMode": "cover",
